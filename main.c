@@ -32,5 +32,6 @@ int main(){
 		printf("\nO resultado é de: %d\n\n", ans);
 	}
 
+
 	return 0;
 }
